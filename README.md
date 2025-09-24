@@ -35,8 +35,7 @@ escala ×2 ) em P(3,2): P' = (−2, 8)
 <img width="636" height="549" alt="image" src="https://github.com/user-attachments/assets/021be337-b722-4ec3-8ffb-f6a664ecbe77" />
 
 ex10
-escala [1,5; 0,5] -> reflexão no eixo y ->
-A'=(1,5, 2), B'=(−4,5, 2), C'=(−4,5, 3), D'=(1,5, 3)
+escala [1,5; 0,5] -> reflexão no eixo y -> A'=(1,5, 2), B'=(−4,5, 2), C'=(−4,5, 3), D'=(1,5, 3)
 <img width="637" height="550" alt="image" src="https://github.com/user-attachments/assets/1dc03548-154c-4a3e-bbb1-7ed17e1e8096" />
 
 
