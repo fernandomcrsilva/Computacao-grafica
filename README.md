@@ -10,8 +10,7 @@ ex3
 A'=(2,0,5), B'=(6,0,5), C'=(4,2)
 <img width="637" height="550" alt="image" src="https://github.com/user-attachments/assets/d0e0c643-95b6-47a1-9b6a-2fcdb195f1f9" />
 
-ex4
-P' = (0, 1)
+ex4 P' = (0, 1)
 <img width="639" height="546" alt="image" src="https://github.com/user-attachments/assets/2ead178d-422b-4135-9cf6-63afa2fed750" />
 
 ex5
