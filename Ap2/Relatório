@@ -1,0 +1,11 @@
+Projeto Ap2
+Neste projeto, a animação consiste em uma moto atravessando uma ponte e o movimento da água
+
+A cena é composta por duas torres, uma ponte, uma moto, uma montanha e um mar. As texturas realistas utilizadas são de tijolos, metais, concreto e pedra. Todas as texturas utilizadas são do site https://polyhaven.com
+
+As animações da água e da moto utilizaram os conceitos de animação procedural e keyframe respectivamente
+
+Os desafios encontrados foram :
+Da textura da torre, que acabou não ficando muito boa nas partes laterais e superiores
+No processo de fazer o reflexo da água e na escolha da cor dela
+E na parte de fazer a animação que não teve muita fluidez na construção dela, por questões de limitação de hardware
